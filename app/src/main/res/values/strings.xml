@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AGENDA</string>
+
+    <!-- Componentes de datos propietario-->
+    <string name="string_datos_propietario">DATOS DEL PROPIETARIO</string>
+    <string name="string_nombre_propietario">Nombre</string>
+    <string name="string_numero_propietario">Numero</string>
+    <string name="string_registrar_propietario">REGISTRAR</string>
+
+    <!-- Componentes contactos -->
+    <string name="string_contactos">CONTACTOS</string>
+</resources>
